@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Young and (hopefully) upcoming developer
+Young and upcoming developer
 
 *   🌍  I'm based in Leipzig, Germany
 *   🧠  I'm learning React.JS, Spring and many more technologies
